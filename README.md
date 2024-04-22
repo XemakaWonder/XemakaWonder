@@ -2,7 +2,7 @@
 
 # Título del Proyecto 
 
-![Imagen de Portada](Recursos/Luffy.jpg) 
+![Imagen de Portada](Recursos/hellothere.jpg) 
 
 ## Descripción 
 
