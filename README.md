@@ -1,5 +1,3 @@
-### Hello there 👋
-
 # Título del Proyecto 
 
 ![Imagen de Portada](Recursos/hellothere.jpg) 
