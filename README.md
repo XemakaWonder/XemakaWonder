@@ -1,10 +1,10 @@
-# Título del Proyecto 
+# GitHub de XemakaWonder
 
 ![Imagen de Portada](Recursos/hellothere.jpg) 
 
 ## Descripción 
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Estudiante de DAM 🌱. Pruebas con GitHub
 
 ## Características 
 
